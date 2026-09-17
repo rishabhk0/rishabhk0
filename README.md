@@ -1,16 +1,13 @@
-## Hi there 👋
+### Rishabh Karnawat
+ML engineer based in Berlin — RAG systems, model fine-tuning, and graph neural networks for sports analytics.
 
-<!--
-**rishabhk0/rishabhk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently building **TacticalVolleyGAT**, an early-stage AI analytics startup for volleyball coaches and scouts, and finishing an MSc in AI, Data Science and Digital Business at Gisma University of Applied Sciences.
 
-Here are some ideas to get you started:
+**Live projects:**
+- [Grounded LLM Router](https://github.com/rishabhk0/AI_Projects/tree/main/grounded_llm_router) — RAG chatbot with a two-stage grounding check · [live demo](https://nimbusstack-router.streamlit.app)
+- [VLM Fine-Tuning Pipeline](https://github.com/rishabhk0/AI_Projects/tree/main/VLM_Fine-Tuning) — QLoRA fine-tuning with MLflow tracking and an automated deployment gate
+- [Claim-Level Hallucination Detector](https://github.com/rishabhk0/AI_Projects/tree/main/Hallucination_Detector) — comparing a local NLI model against an LLM judge for fact-checking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously: deployed a chatbot for a district government welfare program (5,000+ students reached) and a machine vision inspection system on a live manufacturing line.
+
+[LinkedIn](https://linkedin.com/in/rishabh-karnawat-163209a0/)
