@@ -1,7 +1,7 @@
 ### Rishabh Karnawat
 ML engineer based in Berlin — RAG systems, model fine-tuning, and graph neural networks for sports analytics.
 
-Currently building **TacticalVolleyGAT**, an early-stage AI analytics startup for volleyball coaches and scouts, and finishing an MSc in AI, Data Science and Digital Business at Gisma University of Applied Sciences.
+Currently building **TacticalVolleyGAT**, an early-stage AI analytics startup for volleyball coaches and scouts, and finishing an MSc in AI, Data Science and Digital Business.
 
 **Live projects:**
 - [Grounded LLM Router](https://github.com/rishabhk0/AI_Projects/tree/main/grounded_llm_router) — RAG chatbot with a two-stage grounding check · [live demo](https://nimbusstack-router.streamlit.app)
